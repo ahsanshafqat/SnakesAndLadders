@@ -1,0 +1,6 @@
+C:\Users\AHSASN\source\repos\SnakesAndLadders\SnakesAndLadders.Core\bin\Debug\SnakesAndLadders.Core.dll
+C:\Users\AHSASN\source\repos\SnakesAndLadders\SnakesAndLadders.Core\bin\Debug\SnakesAndLadders.Core.pdb
+C:\Users\AHSASN\source\repos\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.csproj.CoreCompileInputs.cache
+C:\Users\AHSASN\source\repos\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.dll
+C:\Users\AHSASN\source\repos\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.pdb
+C:\Users\AHSASN\source\repos\SnakesAndLadders\SnakesAndLadders.Core\obj\Debug\SnakesAndLadders.Core.csprojAssemblyReference.cache
